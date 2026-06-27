@@ -7,3 +7,4 @@ url: "https://mainnet.base.org",
 accounts: []
 },
 "base-sepolia": {
+url: "https://sepolia.base.org",
