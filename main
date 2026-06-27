@@ -14,3 +14,6 @@ accounts: []
 };
 // Configuration for Base network deployment completed.
 etherscan: {
+apiKey: {
+      "base-mainnet": "YOUR_BASESCAN_API_KEY"
+    }
