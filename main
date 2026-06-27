@@ -6,3 +6,4 @@ networks: {
 url: "https://mainnet.base.org",
 accounts: []
 },
+"base-sepolia": {
