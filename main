@@ -17,3 +17,4 @@ etherscan: {
 apiKey: {
       "base-mainnet": "YOUR_BASESCAN_API_KEY"
     }
+}
