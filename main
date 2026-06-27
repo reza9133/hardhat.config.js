@@ -5,3 +5,4 @@ networks: {
 "base-mainnet": {
 url: "https://mainnet.base.org",
 accounts: []
+},
